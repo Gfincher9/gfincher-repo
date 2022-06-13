@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DESCRIPTION=Tool to find packages installed on your system.
+EAPI=8
+HOMEPAGE=https://github.com/Gfincher9/pkgfind
+KEYWORDS=~amd64
+LICENSE=GPL-3
+SLOT=0
+SRC_URI=https://github.com/Gfincher9/pkgfind/archive/refs/tags/v1.0.0.tar.gz
+_md5_=81ae8b5aed3b6ad0986d5ec3d1a2b81a
