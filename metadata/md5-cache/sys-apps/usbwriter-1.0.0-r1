@@ -1,9 +1,9 @@
 DEFINED_PHASES=install
-DESCRIPTION=Tool that writes a file to a USB/disc
+DESCRIPTION=Tool to write files to a USB
 EAPI=8
 HOMEPAGE=https://github.com/Gfincher9/usbwriter
 KEYWORDS=~amd64
 LICENSE=GPL-3
 SLOT=0
-SRC_URI=https://github.com/Gfincher9/usbwriter/archive/refs/tags/v1.0.0.tar.gz
-_md5_=36cc5af69369a1d531cb384376bd60bf
+SRC_URI=https://github.com/Gfincher9/usbwriter/archive/refs/tags/usbwriter.tar.gz
+_md5_=eb8e8642667bf376d1c11b8ebe576ea0
